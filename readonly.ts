@@ -1,6 +1,6 @@
-//github.com/type-challenges/type-challenges/blob/main/questions/00007-easy-readonly/README.ja.md
+// https://github.com/type-challenges/type-challenges/blob/main/questions/00007-easy-readonly/README.ja.md
 
-https: interface Todo1 {
+interface Todo1 {
   title: string;
   description: string;
 }
